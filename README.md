@@ -15,3 +15,10 @@
   - API send login log to discord webhook
 
 <h3 align="center">Images:</h3>
+<p align="center">
+<img src="https://github.com/zsnakeee/api-login-loader/blob/main/images/1.PNG">
+</p>
+
+<p align="center">
+<img src="https://github.com/zsnakeee/api-login-loader/blob/main/images/2.PNG">
+</p>
